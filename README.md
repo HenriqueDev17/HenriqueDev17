@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎮 Jogador de Couter Strike 2, Valorant e COD<br>🖥️ Focado em Desenvolvimento de Sistema <br>✈️ Gosto de viajar</p>
+<p align="left">🎮 Jogador de Counter Strike 2, Valorant e COD<br>🖥️ Focado em Desenvolvimento de Sistema <br>✈️ Gosto de viajar</p>
 
 ###
 
